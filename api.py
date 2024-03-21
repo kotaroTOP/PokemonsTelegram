@@ -1,2 +1,2 @@
-ApiKey = 'live_fyKKfIp6T7r113TGg2A01bk53h9Vs1bHNUJQ8XIwUheC0ZM8tCPjWcscDzvELXrL' # токен API
+ApiKey = '' # токен API
 #HEH!"
