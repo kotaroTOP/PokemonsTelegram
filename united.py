@@ -2,8 +2,8 @@
 from random import randint
 import telebot
 import requests
-ApiKey = 'live_fyKKfIp6T7r113TGg2A01bk53h9Vs1bHNUJQ8XIwUheC0ZM8tCPjWcscDzvELXrL' # Токен котов
-bot = telebot.TeleBot("7079625634:AAH7Iq9slcjeIeqQLIqtyH3APRX-YmbyUsc") # Токен бота
+ApiKey = '' # Токен котов
+bot = telebot.TeleBot("") # Токен бота
 pickabuto = f'https://cdn.discordapp.com/attachments/1195402813287710820/1219654204541636628/kabuto.jpg?ex=660c167e&is=65f9a17e&hm=2a9b057e31c4b136000bcc85f8c5c09bebf18ae1ab9d22a539906cd29674da83&' #Kabuto pic
 kabutoHP = 785
 kabutoClass = "Tank"
